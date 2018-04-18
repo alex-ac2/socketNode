@@ -1,3 +1,4 @@
+![Node Database Graphic](/images/socketNode_Header_Graphic.jpg)
 
 |SocketNode| 
 ------------
